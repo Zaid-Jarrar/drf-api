@@ -1,0 +1,18 @@
+asgiref @ file:///home/zaid/.cache/pypoetry/artifacts/cf/65/18/1451154a3ac6f8e749a6f7485ce77472fc1b339d4696f7a4cb816ac781/asgiref-3.5.2-py3-none-any.whl
+attrs @ file:///home/zaid/.cache/pypoetry/artifacts/5b/25/94/5d165cd3190cb7dfdc98de86c28e8131fc6e19d83a504412664abffec0/attrs-21.4.0-py2.py3-none-any.whl
+Django @ file:///home/zaid/.cache/pypoetry/artifacts/37/9b/d3/9f038c4d278c0648632b781525978e28b2a12731f3864ef7e24f3edcb8/Django-4.0.4-py3-none-any.whl
+django-filter @ file:///home/zaid/.cache/pypoetry/artifacts/a9/c6/98/7cc5361bf7dd56b5125c00f61aaf4c4a2c94e438288814f48d6cc4fe3b/django_filter-21.1-py3-none-any.whl
+djangorestframework @ file:///home/zaid/.cache/pypoetry/artifacts/4a/0e/8b/eb31ad1f5a8d0aef287e2de8aeed7d250803677468c74b0abd296678b8/djangorestframework-3.13.1-py3-none-any.whl
+drf-api==0.1.0
+importlib-metadata @ file:///home/zaid/.cache/pypoetry/artifacts/0a/75/ad/f51e27c6e39df185a949a273f64255e5c7108900c1af10e383d8bcf4bc/importlib_metadata-4.11.4-py3-none-any.whl
+Markdown @ file:///home/zaid/.cache/pypoetry/artifacts/4b/6c/4e/db611a722fc63c55dc145b2405afe61448086df57bb04129cdc175b1bc/Markdown-3.3.7-py3-none-any.whl
+more-itertools @ file:///home/zaid/.cache/pypoetry/artifacts/9e/a8/8b/a9af3e49e50176a01cca867ec675161f8e29a64e033e0450e556c19f4c/more_itertools-8.13.0-py3-none-any.whl
+packaging @ file:///home/zaid/.cache/pypoetry/artifacts/47/3f/ce/b240169f7d8bef1ff24a0269b709721ce86543c2ec25e0b6adb2c2d7ac/packaging-21.3-py3-none-any.whl
+pluggy @ file:///home/zaid/.cache/pypoetry/artifacts/29/58/fc/ed8b7451d3ef91a6465024f5656141da996e7aafd4d41a1659629a75e7/pluggy-0.13.1-py2.py3-none-any.whl
+py @ file:///home/zaid/.cache/pypoetry/artifacts/b3/5c/47/ba5a596e01a2b61fa2daa6a438252483ad8c04e6c99e5dc22eaf8a489a/py-1.11.0-py2.py3-none-any.whl
+pyparsing @ file:///home/zaid/.cache/pypoetry/artifacts/c9/49/7b/434b2668226040d1097efcdddb802b28d05b02854b659ac17913a9a90c/pyparsing-3.0.9-py3-none-any.whl
+pytest @ file:///home/zaid/.cache/pypoetry/artifacts/e4/88/dd/3dbff42e3c4462dc3d027f5024025571166cb35edee215ce93852a968c/pytest-5.4.3-py3-none-any.whl
+pytz @ file:///home/zaid/.cache/pypoetry/artifacts/fb/60/46/e704d81037c87ab74c6677ae79ab43dda85c31e3ae38f53c44486b593a/pytz-2022.1-py2.py3-none-any.whl
+sqlparse @ file:///home/zaid/.cache/pypoetry/artifacts/ea/fd/ba/117a876397913faee210ef8bac93829e22ad9232662e656971383c0718/sqlparse-0.4.2-py3-none-any.whl
+wcwidth @ file:///home/zaid/.cache/pypoetry/artifacts/7d/f4/60/0737157bb9711fec72c70dff523aa54491eef317e0d586cf5388ff0908/wcwidth-0.2.5-py2.py3-none-any.whl
+zipp @ file:///home/zaid/.cache/pypoetry/artifacts/8a/08/12/1ce534dd356211524f826d50d2a2bfe2e99a8f3cac7355cac56639b06b/zipp-3.8.0-py3-none-any.whl
